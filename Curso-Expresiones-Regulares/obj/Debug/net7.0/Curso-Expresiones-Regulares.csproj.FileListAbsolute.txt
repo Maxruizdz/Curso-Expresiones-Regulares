@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\bin\Debug\net7.0\Curso-Expresiones-Regulares.exe
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\bin\Debug\net7.0\Curso-Expresiones-Regulares.deps.json
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\bin\Debug\net7.0\Curso-Expresiones-Regulares.runtimeconfig.json
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\bin\Debug\net7.0\Curso-Expresiones-Regulares.dll
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\bin\Debug\net7.0\Curso-Expresiones-Regulares.pdb
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\obj\Debug\net7.0\Curso-Expresiones-Regulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\obj\Debug\net7.0\Curso-Expresiones-Regulares.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\obj\Debug\net7.0\Curso-Expresiones-Regulares.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\obj\Debug\net7.0\Curso-Expresiones-Regulares.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\obj\Debug\net7.0\Curso-Expresiones-Regulares.dll
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\obj\Debug\net7.0\refint\Curso-Expresiones-Regulares.dll
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\obj\Debug\net7.0\Curso-Expresiones-Regulares.pdb
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\obj\Debug\net7.0\Curso-Expresiones-Regulares.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Curso-ExpresionesRegulares\Curso-Expresiones-Regulares\obj\Debug\net7.0\ref\Curso-Expresiones-Regulares.dll
