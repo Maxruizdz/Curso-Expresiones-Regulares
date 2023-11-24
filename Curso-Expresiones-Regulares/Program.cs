@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.ComponentModel;
 using System.Text.RegularExpressions;
-
+/*
 Console.WriteLine("Hello, World!");
 string caracter = "aaa";
 
@@ -37,4 +37,29 @@ if (regex3.IsMatch(texto2))
 
 
 }
-else Console.WriteLine($"No se encuentra en el texto");
+else Console.WriteLine($"No se encuentra en el texto");*/
+
+//Cuantificadores
+//string patron =@"^aa$";
+//string patron =@"^aa*$";
+//string patron =@"^aa*";
+//string patron =@"^aa+e$";
+//string patron =@"^aa+e?$";
+string patron =@"^aa+e{1,3}?$";
+string text = "aaaaaaaaaaaeee";
+
+
+
+var regex=new Regex(patron);
+
+
+if (regex.IsMatch(text))
+{
+
+    Console.WriteLine("Es correcto");
+
+}
+else { Console.WriteLine("Es incorrecto"); }
+
+
+
